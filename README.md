@@ -1,23 +1,19 @@
-# nicksizbot
+# Güncel Çalışıyor Durumda..!
 
-## Türkçe
-python-telegram-bot kütüphanesi kullanılarak yapılmış basit bir Türkçe telegram botu
+# Grub Tagger Bot💥
+_**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kadar üyeden bahsedebilir. !⚡️**_
 
-### Gereksinimler
-* Bir GNU/Linux dağıtımı (tüm işlevler için)
-* Python2 veya Python3
-* python-telegram-bot kütüphanesi (bunu pip ile kurabilirsiniz)
-* GNU/Linux dağıtımları için hesaplama işleminin çalışması için bc kurun
+### 🗂 Bilgi
+- Dil: Python.
+- Libraries Kütüphaneler: Telethon & Pyrogram İlk Ve Tek.
+- [Developer](https://t.me/ondanbitmis)✨
 
-Benimle [kişisel Telegram hesabımdan](https://t.me/unigorn) iletişime geçebilirsiniz
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdomucis/tagger_bot)
 
-## English
-A basic Turkish telegram bot using python-telegram-bot
 
-### Requirements
-* A GNU/Linux distro (for all functions)
-* Python2 or Python3
-* python-telegram-bot library (you can install it with pip)
-* For GNU/Linux distros, install bc for calculator
+**Beni [Github'dan](https://github.com/derdomucis) takip etmeyi unutmayın ✌️**
 
-You can contact me from [my Telegram account](https://t.me/unigorn)
+
+
+
