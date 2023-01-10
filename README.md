@@ -1,3 +1,3 @@
 ### Heroku Kurulum ⏳
-[![Deploy](https://heroku.com/deploy?template=https://github.com/derdomucis/nicksizbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdomucis/Music)
 ###
