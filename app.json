@@ -1,0 +1,28 @@
+  "BOT_TOKEN": {
+      "description": "bot token girin.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "@otomytelegrambot dan api hash api id alınız.",
+      "value": ""
+    },
+    "BOT_NAME": {
+      "description": "botun adını girin.",
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": "botun adresini girin.",
+      "value": ""
+    },
+    "BOT_ID": {
+      "description": "botun id'sini girin.",
+      "value": ""
+    },
+    "SUDO_USERS": {
+      "description": "botun sahibini girin.",
+      "value": ""
+    },
